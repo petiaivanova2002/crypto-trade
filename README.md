@@ -1,2 +1,2 @@
 # crypto-trade
-js web-back end
+SoftUni_js web_back end
